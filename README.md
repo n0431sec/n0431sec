@@ -35,7 +35,7 @@
 
 ### 🎯 Goals
 
-- 🏁 Win a national-level **CTF competition**
+- 🏁 Win a national-level to world level **CTF competition**
 - 🎓 Earn certifications (eJPT, OSCP, etc.)
 - 🚀 Build open-source security tools
 - 🤝 Train & inspire African youth in cybersecurity
