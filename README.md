@@ -48,10 +48,5 @@
 - 🐙 GitHub: [github.com/n0431sec](https://github.com/n0431sec)
 - 🔗 LinkedIn: Coming soon
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/n0431sec/n0431sec/main/assets/banner.png" alt="N0431SEC Banner"/>
-</p>
 
 ---
