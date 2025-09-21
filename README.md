@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Who Am I?
 
-- 🧠 I go by **N0431SEC**, a passionate learner in the fields of **Cybersecurity** and **Digital Forensics**.
+- 🧠 I go by **N0431SEC**, a passionate enthusiast in the fields of **Cybersecurity** and **Digital Forensics**.
 - 💻 Currently mastering **Linux security**, **ethical hacking**, and **file system forensics**.
 - ⚙️ Enjoy building tools, restoring broken systems, and understanding the why behind every breach.
 - 🌍 Based in **Tanzania**, and aiming to become a top cyber defender across Africa.
@@ -17,7 +17,7 @@
 
 ### 🔧 Tech Stack
 
-- 💥 **Languages:** Bash, Python (basic), C++ (learning)
+- 💥 **Languages:** Bash, Python, C++ (basic),Java,Java Script
 - 🧰 **Tools:** Kali Linux, Autopsy, Wireshark, Burp Suite, FTK Imager, Android Studio
 - 🔐 **Domains:** Disk Recovery, Network Forensics, Web Vulnerabilities, GRUB & Bootloader Fixing
 
